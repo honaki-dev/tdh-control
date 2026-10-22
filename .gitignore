@@ -1,0 +1,26 @@
+# PlatformIO build artifacts & libraries cache
+.pio
+.pioenvs
+.piolibdeps
+
+# VS Code / IDE settings & caches
+.vscode/*
+
+# Temporary / Scratch & Backup files
+*.bak
+*.tmp
+*.log
+temp.txt
+old.cpp
+main_backup.cpp
+blink_mode.cpp
+diagram*
+
+# Wokwi simulation network captures
+*.pcap
+wokwi*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
